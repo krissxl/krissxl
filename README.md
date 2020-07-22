@@ -2,12 +2,10 @@
 My name is Ilya Garenko. I'm enthusiast web programmer from Russia. All my projects you can find in this GitHub account.
 
 #### What I'm doing now?
-I'm currently learning computer science. All info about CS I taking from this repository: https://github.com/jwasham/coding-interview-university.
-
-Coming soon I'll start create an Imgur parody with Vue.
+Currently learning Vue for Imgur parody.
 
 #### How to reach me?
-My email you can find on GitHub: il.gareni4@gmail.com.
+My email: il.gareni4@gmail.com.
 
 Also I have a [Twitter](https://twitter.com/il_garenich) and a [VK](https://vk.com/id561347395).
 
