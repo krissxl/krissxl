@@ -1,8 +1,5 @@
 ### Who am i?
-My name is Ilya Garenko. I'm enthusiast web programmer from Russia. All my projects you can find in this GitHub account.
-
-#### What I'm doing now?
-Currently creating imgur parody.
+My name is Ilya Garenko. I'm enthusiast web programmer from Russia. All my projects you can find in this GitHub account
 
 #### How to reach me?
 My email: il.gareni4@gmail.com.
